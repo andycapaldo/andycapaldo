@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Zengenda, check it out here https://github.com/andycapaldo/Zengenda<br>🌱 I’m currently learning more about React-Native, Firebase, and Scrum methodologies<br>🤝 I’m looking for help with building with Rust<br>💬 Ask me about anything tech-related<br>📫 How to reach me: Email - [andrewcapaldo23gmail.com](https://github.com/andycapaldo/Zengenda)
+🔭 I’m currently working on [Zengenda](https://github.com/andycapaldo/Zengenda)<br>🌱 I’m currently learning more about React-Native, Firebase, and Scrum methodologies<br>🤝 I’m looking for help with building with Rust<br>💬 Ask me about anything tech-related<br>📫 How to reach me: Email - [andrewcapaldo23@gmail.com](andrewcapaldo23@gmail.com)
 
 
 ## 🌐 Socials:
