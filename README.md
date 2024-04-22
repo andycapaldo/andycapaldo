@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on contributing to Open-Source Projects🌱<br>I’m currently learning more about Data Structures & Algorithms, Python, and TypeScript<br>🤝 I’m looking for help with building with Rust<br>💬 Ask me about anything tech-related<br>📫 How to reach me: Email - [andrewcapaldo23@gmail.com](andrewcapaldo23@gmail.com)
+🔭 I’m currently working on contributing to Open-Source Projects<br>🌱I’m currently learning more about Data Structures & Algorithms, Python, and TypeScript<br>🤝 I’m looking for help with building with Rust<br>💬 Ask me about anything tech-related<br>📫 How to reach me: Email - [andrewcapaldo23@gmail.com](andrewcapaldo23@gmail.com)
 
 
 ## 🌐 Socials:
