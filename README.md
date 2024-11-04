@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on contributing to Open-Source Projects<br>🌱I’m currently learning more about Next.js<br>💬 Ask me about anything tech-related<br>📫 How to reach me: Email - [andrewcapaldo23@gmail.com](andrewcapaldo23@gmail.com)
+🔭 I’m currently working on JavaScript, TypeScript and Python projects<br>🌱I’m currently learning more about Next.js<br>💬 Ask me about anything tech-related<br>📫 How to reach me: Email - [andrewcapaldo23@gmail.com](andrewcapaldo23@gmail.com)
 
 
 ## 🌐 Socials:
