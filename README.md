@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on JavaScript, TypeScript and Python projects<br>🌱I’m currently learning more about Next.js<br>💬 Ask me about anything tech-related<br>📫 How to reach me: Email - [andrewcapaldo23@gmail.com](andrewcapaldo23@gmail.com)
+🔭 I’m currently working on React and Python projects<br>🌱I’m currently learning more about Generative AIs<br>💬 Ask me about anything tech-related<br>📫 How to reach me: Email - [andrewcapaldo23@gmail.com](andrewcapaldo23@gmail.com)
 
 
 ## 🌐 Socials:
@@ -11,6 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=andycapaldo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=andycapaldo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andycapaldo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=andycapaldo&icon=0&color=8)](https://visitcount.itsvg.in)
