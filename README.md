@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React and Python projects<br>🌱I’m currently learning more about Generative AIs<br>💬 Ask me about anything tech-related<br>📫 How to reach me: Email - [andrewcapaldo23@gmail.com](andrewcapaldo23@gmail.com)
+🔭 I’m currently working on Next.js Projects<br>🌱I’m currently learning more about Generative AIs<br>💬 Ask me about anything tech-related<br>📫 How to reach me: Email - [andrewcapaldo23@gmail.com](andrewcapaldo23@gmail.com)
 
 
 ## 🌐 Socials:
